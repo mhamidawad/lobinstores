@@ -12,7 +12,7 @@ export default function Home() {
     onload="this.rel='stylesheet'"
     href="https://fonts.googleapis.com/css2?display=swap&family=Manrope%3Awght%40400%3B500%3B700%3B800&family=Noto+Sans%3Awght%40400%3B500%3B700%3B900"
   />
-  <title>Bin Stores Directory</title>
+  <title>Lo Bin Stores</title>
   <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
   <div
     className="relative flex size-full min-h-screen flex-col bg-[#f9fbf8] justify-between group/design-root overflow-x-hidden"
@@ -21,7 +21,7 @@ export default function Home() {
     <div>
       <div className="flex items-center bg-[#f9fbf8] p-4 pb-2 justify-between">
         <h2 className="text-[#121b0e] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pl-12">
-          American Bin Stores
+          Lo Bin Stores in US
         </h2>
         <div className="flex w-12 items-center justify-end">
           <button className="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-12 bg-transparent text-[#121b0e] gap-2 text-base font-bold leading-normal tracking-[0.015em] min-w-0 p-0">
